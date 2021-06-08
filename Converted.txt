@@ -1,0 +1,211 @@
+group,Channels
+ext,SRREGIO.NET,http://srregio.net/web.php
+ext,http://paypal.me/SrRegio,http://srregio.net/web.php
+ext,@RegioPlay.Oficial,http://srregio.net/web.php
+ext,@SrRegio,http://srregio.net/web.php
+ext,t.me/SrRegioGrupo,http://srregio.net/web.php
+ext,REGIO CHANNEL,http://ipeteve.com/php/th.php?channel=srregio&f.m3u8
+
+group,Lista TV
+ext,DREIKOTV CANAL 24/7,https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+ext,EIN SPORTS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=winhd&f=.m3u8
+UNIVERSO.us,UNIVERSO,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=universo&f=.m3u8
+ext,RCN,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=rcn&f=.m3u8
+BeINLaLiga.es,LA LIGA,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=laliga&f=.m3u8
+WNBCNewYorkNBCEast.us,NBC,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=nbcsn&f=.m3u8
+GolTV.us,GOLTV,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=goltv&f=.m3u8
+ext,AFIZZIONADOS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=afizzionados&f=.m3u8
+beINSPORTSenespanol467.us,BEIN SPORTS N,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=beines&f=.m3u8
+ext,DIRECTV SPORTS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=directv&f=.m3u8
+ext,DIRECTV SPORTS +,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=directvplus&f=.m3u8
+FoxSportsPremium.pe,FOX SPORTS PREMIUM,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=foxsportp&f=.m3u8
+Telemundo.mx,TELEMUNDO INTERNACIONAL,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=telemundoint&f=.m3u8
+AzCorazon.mx,AZCORAZON,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=azcorazon&f=.m3u8
+AyE.mx,A&E,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=ae&f=.m3u8
+AXN.mx,AXN,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=axn&f=.m3u8
+ComedyCentral.mx,COMEDY CENTRAL,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=comedy&f=.m3u8
+E.uk,E!,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=e&f=.m3u8
+FX.mx,FX,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=fx&f=.m3u8
+Investigation.uk,DISCOVERY ID,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=id&f=.m3u8
+Lifetime.mx,LIFETIME,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=lifetime&f=.m3u8
+Pasiones.us,PASIONES,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=pasiones&f=.m3u8
+Sony.mx,SONY,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=sony&f=.m3u8
+TBS.mx,TBS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tbs&f=.m3u8
+TLC.mx,TLC,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tlc&f=.m3u8
+Tlnovelas.mx,TLNOVELAS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tlnovelas&f=.m3u8
+TNTSeries.cl,TNT SERIES,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tntseries&f=.m3u8
+TruTV.mx,TRUTV,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=trutv&f=.m3u8
+Universal.uk,UNIVERSAL,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=universal&f=.m3u8
+Warnerchannel.br,WARNER,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=warner&f=.m3u8
+ext,AZ CINEMA,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=azcinema&f=.m3u8
+AMC.mx,AMC,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=amc&f=.m3u8
+CinecanalW.mx,CINECANAL,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=cinecanal&f=.m3u8
+CinemaxO.mx,CINEMAX,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=cinemax&f=.m3u8
+CineLatino.mx,CINE LATINO,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=cinelatino&f=.m3u8
+ext,CINE LATINO HD,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=cinelatinohd&f=.m3u8
+ext,CLARO CINEMA,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=clarocinema&f=.m3u8
+DePelicula.mx,DE PELICULA,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=dpelicula&f=.m3u8
+ext,DE PELICULA PLUS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=dpeliculaplus&f=.m3u8
+ext,DHE,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=dhe&f=.m3u8
+EuropaEuropa.ar,EUROPA,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=europa&f=.m3u8
+ext,EURO CHANNEL,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=euroch&f=.m3u8
+FilmyArts.cl,FILMS & ARTS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=filmarts&f=.m3u8
+FXMovie.us,FXM,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=fxm&f=.m3u8
+Golden.mx,GOLDEN,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=golden&f=.m3u8
+GoldenEdge.mx,GOLDEN EDGE,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=edge&f=.m3u8
+ext,GOLDEN PLUS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=goldenplus&f=.m3u8
+ext,GOLDEN PREMIER,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=goldenp&f=.m3u8
+HBOHD.mx,HBO,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hboes&f=.m3u8
+HBO2.mx,HBO 2,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hbo2&f=.m3u8
+HBOPlusE.mx,HBO PLUS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hboplus&f=.m3u8
+Hbofamily.br,HBO FAMILY,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hbofamily&f=.m3u8
+Max.br,HBO MUNDI,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hbomundi&f=.m3u8
+Maxup.br,HBO POP,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hbopop&f=.m3u8
+HBOSignature.mx,HBO SIGNATURE,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hbosignature&f=.m3u8
+Maxprime.br,HBO XTREME,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hboxtreme&f=.m3u8
+ISat.mx,I SAT,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=isat&f=.m3u8
+ext,MORBIDO,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=morbido&f=.m3u8
+ext,MULTI CINEMA,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=mc&f=.m3u8
+ext,MULTI PREMIER,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=mp&f=.m3u8
+ParamountChannel.mx,PARAMOUNT CHANNEL,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=paramount&f=.m3u8
+Space.mx,SPACE,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=space&f=.m3u8
+otr,STAR CHANNEL,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=starch&f=.m3u8
+ext,STAR ACTION,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=staraction&f=.m3u8
+star-cinema,STAR CINEMA,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=starcinema&f=.m3u8
+ext,STAR CLASSICS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=starclassics&f=.m3u8
+ext,STAR COMEDY,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=starcomedy&f=.m3u8
+ext,STAR FUN,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=starfun&f=.m3u8
+ext,STAR HITS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=starhits&f=.m3u8
+StarOne.uk,STAR LIFE,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=starlife&f=.m3u8
+ext,STAR SERIES,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=starseries&f=.m3u8
+StudioUniversal.mx,STUDIO UNIVERSAL,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=studiou&f=.m3u8
+SyFy.mx,SYFY,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=syfy-1&f=.m3u8
+TCM.mx,TCM,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tcm&f=.m3u8
+TNT.mx,TNT,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tnt&f=.m3u8
+AzMundo.mx,AZ MUNDO,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=azmundo&f=.m3u8
+AnimalPlanet.mx,ANIMAL PLANET,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=animalp&f=.m3u8
+DiscoveryChannel.mx,DISCOVERY CHANNEL,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=discovery&f=.m3u8
+DiscoverySci.mx,DISCOVERY SCIENCE,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=dciencia&f=.m3u8
+DiscoveryCivil.mx,DISCOVERY CIVILIZATION,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=dcivil&f=.m3u8
+DiscoveryTheatreHD.ar,DISCOVERY THEATER,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=dtheater&f=.m3u8
+DiscoveryTurbo.mx,DISCOVERY TURBO,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=dturbo&f=.m3u8
+Discovery.uk,DISCOVERY WORLD,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=dworld&f=.m3u8
+FoodNetwork.eu,FOOD NETWORK,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=food&f=.m3u8
+ElGourmet.mx,GOURMET,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=gourmet&f=.m3u8
+History.uk,HISTORY,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=history&f=.m3u8
+H2.mx,H2,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=history2&f=.m3u8
+HomeHealthHD.mx,H&H,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hh&f=.m3u8
+HolaTV.us,HOLATV,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=holatv&f=.m3u8
+Maschic.mx,MAS CHIC,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=maschic&f=.m3u8
+NatGeo.mx,NAT GEO,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=natgeo&f=.m3u8
+NatGeoWild.mx,NAT GEO WILD,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=natgeowild&f=.m3u8
+AzClic.mx,AZ CLIC,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=azclic&f=.m3u8
+ext,CONCERT,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=concert&f=.m3u8
+Bandamax.mx,BANDAMAX,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=bandamax&f=.m3u8
+ext,EUFORIA,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=euforia&f=.m3u8
+ext,EXATV,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=exatv&f=.m3u8
+ext,FOX MIX,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=foxmix-1&f=.m3u8
+HTV.mx,HTV,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=htv&f=.m3u8
+ext,LA MEJOR TV,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=lamejor&f=.m3u8
+MTV.mx,MTV,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=mtv&f=.m3u8
+ext,MTV TR3S,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=mtvtr3s&f=.m3u8
+MTVHits.eu,MTV HITS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=mtvhits&f=.m3u8
+MTVLiveHD.uk,MTV LIVE,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=mtvlive&f=.m3u8
+vh-1-classic,MTV 80S,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=mtv80s&f=.m3u8
+NickMusic.nl,NICK MUSIC,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=nickmusic&f=.m3u8
+Telehit.mx,TELEHIT,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=telehit&f=.m3u8
+ext,TELEHIT PLUS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=telehitplus&f=.m3u8
+ext,TELERITMO,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=teleritmo&f=.m3u8
+ext,TMTV,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tmtv&f=.m3u8
+VH1.mx,VH1,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=vh1&f=.m3u8
+Videorola.us,VIDEOROLA,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=videorola&f=.m3u8
+ext,A+,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=amas&f=.m3u8
+ext,AZTECA UNO,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=aztecauno&f=.m3u8
+ext,EL DOS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=eldos&f=.m3u8
+Canal5.mx,CANAL 5,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=elcinco&f=.m3u8
+Azteca7.mx,AZTECA 7,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=azteca7&f=.m3u8
+ext,NU9VE,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=nueve&f=.m3u8
+DistritoComedia.mx,DISTRITO COMEDIA,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=distrito&f=.m3u8
+ext,IMAGEN TV,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=imagentv&f=.m3u8
+Unicable.mx,UNICABLE,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=unicable&f=.m3u8
+ext,MEXIQUENSE,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=mexiquense&f=.m3u8
+MultimediosMonterrey.mx,MULTIMEDIOS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=multimedios&f=.m3u8
+ext,MVS TV,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=mvstv&f=.m3u8
+ext,TV CUATRO,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tvcuatro&f=.m3u8
+OnceTV.mx,ONCE TV,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=oncetv&f=.m3u8
+ext,ADN40,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=adn40&f=.m3u8
+CNN.nws,CNN,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=cnnes&f=.m3u8
+ForoTV.mx,FORO TV,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=forotv&f=.m3u8
+MilenioTV.mx,MILENIO,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=milenio&f=.m3u8
+Galavision.us,GALAVISION,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=galavision&f=.m3u8
+Telemundo.mx,TELEMUNDO,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=telemundo&f=.m3u8
+UniMas.us,UNIMAS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=unimas&f=.m3u8
+UnivisionEast.us,UNIVISION,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=univisionhd&f=.m3u8
+ext,CANAL CLARO,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=claro&f=.m3u8
+ESPN.mx,ESPN,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=espn1mx&f=.m3u8
+ESPN2.mx,ESPN 2,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=espn2mx&f=.m3u8
+ESPN3.mx,ESPN 3,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=espn3mx&f=.m3u8
+Espnextra.br,ESPN EXTRA,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=espnextramx&f=.m3u8
+ESPNDeportes.us,ESPN DEPORTES,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=espndep&f=.m3u8
+FoxSports.mx,FOX SPORTS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=foxsport1mx&f=.m3u8
+FoxSports2.mx,FOX SPORTS 2,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=foxsport2mx&f=.m3u8
+FoxSports3.mx,FOX SPORTS 3,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=foxsport3mx&f=.m3u8
+ext,TUDN MX,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tudnmx&f=.m3u8
+ext,TUDN US,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tudnus&f=.m3u8
+TVCDeportes.mx,TVC DEPORTES,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tvcdep&f=.m3u8
+BabyTV.uk,BABYTV,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=babytv&f=.m3u8
+BABYFIRST.sp,BABY FIRST,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=babyfirts&f=.m3u8
+ext,BITME,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=bitme&f=.m3u8
+Boomerang.mx,BOOMERANG,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=boomerang&f=.m3u8
+CartoonNetwork.mx,CARTOON NETWORK,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=cartoon&f=.m3u8
+DisneyChannel.mx,DISNEY CHANNEL,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=disneych&f=.m3u8
+DisneyJr.mx,DISNEY JR,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=disneyjr&f=.m3u8
+DisneyXD.mx,DISNEY XD,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=disneyxd&f=.m3u8
+DiscoveryKids.mx,DISCOVERY KIDS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=dkids&f=.m3u8
+ext,NAT GEO KIDS,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=natgeokids&f=.m3u8
+Nickelodeon.uk,NICK,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=nick&f=.m3u8
+NickJr.mx,NICK JR,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=nickjr&f=.m3u8
+TeenNick.us,TEEN NICK,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=teennick&f=.m3u8
+Tooncast.mx,TOONCAST,http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tooncast&f=.m3u8
+
+group,Lista TV2
+AzMundo.mx,AZMUNDO,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a01n
+ext,Azteca 1,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a00f
+ext,Canal E,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a01t
+CanalEstrellas.es,Canal de las estrellas,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a01g
+CinecanalW.mx,Cinecanal,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a00r
+DisneyJr.mx,DISNEY JR,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a01i
+DiscoveryChannel.mx,Discovery Channel,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a008
+DiscoveryCivil.mx,Discovery Civilization,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a01f
+ext,Discovery HH,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a002
+DistritoComedia.mx,Distrito Comedia,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a01m
+ESPN+.mx,ESPN +,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a00bb
+ESPN2.mx,ESPN 2 HD,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a00c
+ESPN3HD.mx,ESPN 3 HD,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a00v
+ESPNDeportes.us,ESPN DEPORTES,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a02g
+ext,ESPN HD eth1,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a00b
+ext,EWNTV,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a00y
+FoxFamilyW.mx,FOX FAMILy,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a026
+FX.mx,FX,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a029
+ext,FoodNetwork ether1,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a01p
+FoxCinema.mx,Fox Cinema,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a028
+ext,Fox MX HD,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a02b
+FoxMovies.pt,Fox Movies,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a027
+FoxSports2.mx,Fox Sports 2,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a00h
+FoxSports3.mx,Fox Sports 3,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a00j
+ext,Glizt,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a011
+Hboplushd.br,HBO PLUS HD,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a01b
+HBOPlusE.mx,HBO Plus,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a02e
+HTV.mx,HTV,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a01j
+Lifetime.mx,LifeTime,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a025
+NatGeo.mx,Natgeo,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a015
+Paramount.uk,Paramount,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a02d
+RaiItalia.cl,Rai Italia,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a00u
+set,SONYHD,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a01o
+Tlnovelas.mx,TLNOVELAS,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a02h
+ext,TUDN,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a00k
+TVE.mx,TVE,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a00x
+ext,Unan,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a010
+Unicable.mx,Unicable,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a01h
+VH1HD.mx,VH1 HD,http://ipeteve.com/php/SR_REGIO_9998/regio3.php?c=a02i
+
